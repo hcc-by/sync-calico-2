@@ -6,9 +6,6 @@
         }
     },
     "images": {
-
-          "registry.hub.docker.com/calico/cni": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-cni",
-          "registry.hub.docker.com/calico/kube-controllers": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-controllers",
           "registry.hub.docker.com/calico/typha": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-typha",
           "registry.hub.docker.com/calico/pod2daemon-flexvol": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-pod2daemon-flexvol",
           "registry.hub.docker.com/calico/node": "registry.cn-hangzhou.aliyuncs.com/hcc-k8s/calico-node"
